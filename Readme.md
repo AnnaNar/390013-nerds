@@ -1,6 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
 * Студент: [Анна Безменова](https://up.htmlacademy.ru/htmlcss/17/user/390013).
+* Наставник: [Евгений Котов](https://github.com/EugeneKot).
 
 ---
 
